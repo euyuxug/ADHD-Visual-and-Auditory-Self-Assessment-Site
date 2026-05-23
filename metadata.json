@@ -1,5 +1,6 @@
 {
   "name": "IVA-CPT ADHD Assessment",
   "description": "Integrated Visual and Auditory Continuous Performance Test for ADHD assessment with high-precision timing and data visualization.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
